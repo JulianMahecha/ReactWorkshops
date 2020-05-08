@@ -22,7 +22,7 @@ const TarjetaFruta = () => (
   <div>
     <h3>
       <hr/>
-      <p>Description ....</p>
+      <p>Description .... changue</p>
     </h3>
   </div>
 )
